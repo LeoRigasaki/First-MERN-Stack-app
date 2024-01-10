@@ -7,7 +7,7 @@ const app = express();
 const port = 8000;
 
 // MongoDB URI and Client
-const uri = "mongodb+srv://leorigasaki:supersaiyan2@cluster0.mmpctxq.mongodb.net/";
+const uri = "your_mongodb_uri";
 const client = new MongoClient(uri);
 
 async function connectToMongo() {
