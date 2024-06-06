@@ -55,14 +55,6 @@ We welcome contributions to ProjectDash! If you'd like to contribute, please fol
    ```bash
    git push origin feature/your-feature-name
    ```
-5. **Submit a pull request.**
-
-Please make sure to follow the [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 For any questions or feedback, please contact Leo Rigasaki at [leorigasaki65@gmail.com](mailto:leorigasaki65@gmail.com).
@@ -70,4 +62,3 @@ For any questions or feedback, please contact Leo Rigasaki at [leorigasaki65@gma
 ---
 
 Thank you for using ProjectDash! We hope it helps you manage your projects more effectively.
-```
